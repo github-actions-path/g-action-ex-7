@@ -19,7 +19,7 @@
       <name>GitHub Packages</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/GITHUB_USERNAME/GITHUB_REPONAME</url>
+      <url>https://maven.pkg.github.com/Syr7-s/g-action-ex-7</url>
 
     </repository>
   </distributionManagement>
